@@ -1,0 +1,10 @@
+*.mdl 
+*.phy
+*.vtx
+*.vvd
+/materials/models
+/materials/rg
+/materials/scope
+/materials/trails
+/materials/vgui
+/models/weapons/*
